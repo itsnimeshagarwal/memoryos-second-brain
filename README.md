@@ -148,21 +148,19 @@ npm run dev
 ```
 ---
 ## 👨‍💻 Author
-
 Made with ❤️ by Nimesh
+
 ---
 
 ---
 ## ⚠️ Note
-
 This is a frontend-first AI system.
 AI backend is currently disabled for safety (no API keys in production).
 ---
 
 ---
 <div align="center"> 
-##⚡ MemoryOS — The Future of Personal AI Memory
+⚡ MemoryOS — The Future of Personal AI Memory
 
-# ⭐ If you like this project, give it a star!
-
+⭐ If you like this project, give it a star!
 </div> 
