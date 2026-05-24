@@ -138,7 +138,7 @@ Analytics of your learning behavior
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/your-username/memoryos-second-brain.git
@@ -154,9 +154,9 @@ Made with ❤️ by Nimesh
 This is a frontend-first AI system.
 AI backend is currently disabled for safety (no API keys in production).
 
-<div align="center">
+<div align="center"> <br/>
 ⚡ MemoryOS — The Future of Personal AI Memory
 
 ⭐ If you like this project, give it a star!
 
-</div> ```
+<br/> </div> ```
