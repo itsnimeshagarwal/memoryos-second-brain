@@ -136,7 +136,6 @@ Analytics of your learning behavior
 
 > “To build a personal AI operating system that remembers everything you learn, think, and build — becoming your second brain.”
 
----
 
 ## 🚀 Getting Started
 
@@ -154,9 +153,9 @@ Made with ❤️ by Nimesh
 This is a frontend-first AI system.
 AI backend is currently disabled for safety (no API keys in production).
 
-<div align="center"> <br/>
+<div align="center"> 
 ⚡ MemoryOS — The Future of Personal AI Memory
 
 ⭐ If you like this project, give it a star!
 
-<br/> </div> ```
+</div> ```
