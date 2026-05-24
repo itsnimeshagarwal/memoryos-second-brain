@@ -152,11 +152,9 @@ Made with ❤️ by Nimesh
 
 ---
 
----
 ## ⚠️ Note
-This is a frontend-first AI system.
-AI backend is currently disabled for safety (no API keys in production).
----
+- This is a frontend-first AI system.
+- AI backend is currently disabled for safety (no API keys in production).
 
 ---
 <div align="center"> 
