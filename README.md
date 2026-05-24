@@ -1,16 +1,162 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧠 MemoryOS
 
-Currently, two official plugins are available:
+### ⚡ Your Personal AI Second Brain Operating System
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> “A futuristic AI system that remembers everything you learn, think, and build — and turns it into structured intelligence.”
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🌐 Live Demo  
+👉 https://memoryos-second-brain.vercel.app/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🚀 Status  
+🟢 Active Development • 🧠 AI Memory System • ⚡ Frontend Complete
+
+---
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-Fast-purple?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-cyan?style=for-the-badge)
+![AI](https://img.shields.io/badge/OpenRouter-AI-green?style=for-the-badge)
+
+</div>
+
+---
+
+# 🧠 What is MemoryOS?
+
+MemoryOS is a **next-generation AI memory system** that transforms your:
+
+- 💬 Conversations  
+- 📚 Learning  
+- 🧾 Tasks  
+- 🧠 Thoughts  
+
+into a structured **Second Brain System**
+
+---
+
+# ⚡ Core Features
+
+## 💬 AI Memory Chat System
+Store conversations with structured intelligence
+
+## 🧠 Smart Memory Engine
+Every answer is stored with:
+- Topic
+- Insight
+- Context
+
+## 📅 Timeline View
+Your knowledge visualized like a **learning journey**
+
+## 🧾 Task System
+Automatically extracted + user tasks
+
+## 🔍 Smart Search
+Search and highlight memory instantly
+
+## 🎯 Related Memory Engine
+Find similar knowledge instantly
+
+## 📊 AI Insights Dashboard
+Analytics of your learning behavior
+
+---
+
+# 📸 Product Screenshots
+
+## 🧠 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+## 📅 Timeline
+![Timeline](./screenshots/timeline.png)
+
+## 📊 Insights
+![Insights](./screenshots/insights.png)
+
+## 🧾 Tasks
+![Tasks](./screenshots/tasks.png)
+
+## 🧠 Empty State
+![Empty](./screenshots/empty.png)
+
+---
+
+# 🔥 Upcoming Vision Roadmap
+
+- 🎤 Voice Input (Speech-to-Text)
+- 🔊 AI Voice Responses
+- ✨ Typing Animation
+- 🌌 Particle Background System
+- 📱 Fully Responsive Mobile UI
+- 📌 Pinned Memories
+- 🧠 AI Smart Suggestions Engine
+- 🔥 Daily Streak System
+- 📊 Animated Counters
+- 🎵 Sound Effects
+- 🌗 Dark/Light Mode System
+- 🖼 AI Avatar Personalization
+- ⚡ Keyboard Shortcuts (Ctrl + K)
+- 🧾 Export Memory as PDF
+- ☁ Cloud Sync System
+- 🔔 Smart Notifications
+- 🧠 Memory Graph Visualization
+- 🎯 Productivity Score Engine
+- 📅 Calendar Integration
+- ⏰ Smart Reminders
+- 🤖 Personalized AI Personality
+- 🎨 Theme Engine
+- 🪄 Framer Motion Animations
+- ⚡ Skeleton Loading UI
+- 📈 GitHub Activity Heatmap
+- 🔍 Semantic AI Search
+- 🛰 Command Palette (Spotlight UI)
+- 🧊 Glassmorphism Everywhere
+
+---
+
+# 🛠 Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- ⚡ JavaScript (ES6+)
+- 💾 LocalStorage
+- 🤖 OpenRouter AI API (disabled in production)
+
+---
+
+# 🧠 Vision
+
+> “To build a personal AI operating system that remembers everything you learn, think, and build — becoming your second brain.”
+
+---
+
+# 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/memoryos-second-brain.git
+cd memoryos-second-brain
+npm install
+npm run dev
+👨‍💻 Author
+
+Made with ❤️ by Nimesh
+
+⚠️ Note
+
+This is a frontend-first AI system.
+AI backend is currently disabled for safety (no API keys in production).
+
+<div align="center">
+⚡ MemoryOS — The Future of Personal AI Memory
+
+⭐ If you like this project, give it a star!
+
+</div> ```
