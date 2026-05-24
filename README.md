@@ -73,19 +73,19 @@ Analytics of your learning behavior
 # 📸 Product Screenshots
 
 ## 🧠 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard MemoryOS.png)
 
 ## 📅 Timeline
-![Timeline](./screenshots/timeline.png)
+![Timeline](./screenshots/timeline MemoryOS.png)
 
 ## 📊 Insights
-![Insights](./screenshots/insights.png)
+![Insights](./screenshots/insights MemoryOS.png)
 
 ## 🧾 Tasks
-![Tasks](./screenshots/tasks.png)
+![Tasks](./screenshots/tasks MemoryOS.png)
 
 ## 🧠 Empty State
-![Empty](./screenshots/empty.png)
+![Empty](./screenshots/empty MemoryOS.png)
 
 ---
 
