@@ -2,6 +2,10 @@ import axios from "axios";
 
 export async function askAI(message) {
   try {
+
+    console.log("API KEY:", import.meta.env.VITE_OPENROUTER_API_KEY);
+    console.log("Sending request...");
+
     const response = await axios.post(
       "https://openrouter.ai/api/v1/chat/completions",
       {
@@ -50,7 +54,7 @@ export async function askAI(message) {
       },
       {
         headers: {
-          Authorization: `Bearer "YOUR_API_KEY"`,
+          Authorization: `Bearer ${import.meta.env.VITE_OPENROUTER_API_KEY}`,
           "Content-Type": "application/json",
         },
       }
@@ -58,7 +62,11 @@ export async function askAI(message) {
 
     return response.data.choices[0].message.content;
   } catch (error) {
-    console.log(error.response?.data || error.message);
+
+    console.error("STATUS:", error.response?.status);
+    console.error("DATA:", error.response?.data);
+    console.error("MESSAGE:", error.message);
+
     return "⚠️ AI failed. Check API key / OpenRouter account.";
   }
 }
